@@ -1,0 +1,10 @@
+E:\web\Github\C#\neurometer\neurometer\bin\Debug\neurometer.exe.config
+E:\web\Github\C#\neurometer\neurometer\bin\Debug\neurometer.exe
+E:\web\Github\C#\neurometer\neurometer\bin\Debug\neurometer.pdb
+E:\web\Github\C#\neurometer\neurometer\obj\Debug\neurometer.csproj.AssemblyReference.cache
+E:\web\Github\C#\neurometer\neurometer\obj\Debug\neurometer.Form1.resources
+E:\web\Github\C#\neurometer\neurometer\obj\Debug\neurometer.Properties.Resources.resources
+E:\web\Github\C#\neurometer\neurometer\obj\Debug\neurometer.csproj.GenerateResource.cache
+E:\web\Github\C#\neurometer\neurometer\obj\Debug\neurometer.csproj.CoreCompileInputs.cache
+E:\web\Github\C#\neurometer\neurometer\obj\Debug\neurometer.exe
+E:\web\Github\C#\neurometer\neurometer\obj\Debug\neurometer.pdb
